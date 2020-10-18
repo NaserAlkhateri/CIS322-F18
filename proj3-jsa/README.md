@@ -1,0 +1,1 @@
+In this project we implement AJAX method replacing the link method.
